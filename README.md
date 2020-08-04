@@ -40,3 +40,8 @@
 ### TKDE 2018
 1. Mining Summaries for Knowledge Graph Search [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8300649), [ICDM2016 version](http://lunadong.com/publication/summaryMining_icdm.pdf)]
 2. Answering Natural Language Questions by Subgraph Matching over Knowledge Graphs [[PDF](https://ieeexplore.ieee.org/document/8085196)]
+3. THINKER - Entity Linking System for Turkish Language
+4. SHINE+: A General Framework for Domain-Specific Entity Linking with Heterogeneous Information Networks
+5. Rule-Based Entity Resolution on Database with Hidden Temporal Information
+6. Linguistic Petri Nets Based on Cloud Model Theory for Knowledge Representation and Reasoning
+7. Matching Heterogeneous Event Data
