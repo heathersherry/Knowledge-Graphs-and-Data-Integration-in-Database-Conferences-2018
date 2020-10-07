@@ -45,3 +45,8 @@
 5. Rule-Based Entity Resolution on Database with Hidden Temporal Information
 6. Linguistic Petri Nets Based on Cloud Model Theory for Knowledge Representation and Reasoning
 7. Matching Heterogeneous Event Data
+
+### VLDBJ 2018
+1. Non-binary evaluation measures for big data integration
+2. Distilling relations using knowledge bases
+
